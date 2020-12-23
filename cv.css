@@ -39,6 +39,7 @@
     position: relative;
   }
   
+  
   .left {
     height: 1000px;
     width: 45px;
@@ -73,6 +74,7 @@
   }
   
   #name {
+    color: crimson;
     font-family: Sacramento;
     float: right;
     margin-top: 10px;
